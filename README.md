@@ -25,3 +25,6 @@ git clone https://github.com/heyitsxed/Calculator
 1. Enter numbers and operations using the calculator interface.
 2. Press = to compute the result.
 3. Press = again to double the last result.
+
+## Purpose
+This app is built as a **personal / pet project** to practice app development.
